@@ -1,0 +1,22 @@
+#root {
+  width: 100%;
+}
+
+.main-div {
+  display: flex;
+  flex-direction: row;
+}
+
+
+.genre-table {
+  width: 70%;
+  border: 1px solid gray;
+  margin:5px;
+}
+
+.genre-pie {
+  width: 30%;
+  margin: 0 auto;
+  border: 1px solid gray;
+  margin: 5px;
+}
